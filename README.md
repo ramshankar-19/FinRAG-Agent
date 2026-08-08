@@ -958,4 +958,3 @@ For your GitHub README, the strongest evidence will be an actual section like:
 | Overall | 0.89 |
 ````
 
-**but only after Antigravity actually runs the evaluation and produces those numbers.** That will make the `>0.85` resume bullet genuinely defensible in an interview.
