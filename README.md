@@ -936,25 +936,7 @@ Final Answer
 
 ````
 
-### One thing I'd change from your original write-up
 
-Be careful with this statement:
 
-> `RAGAs feeds 7 predefined test questions into the pipeline, bypassing the agent`
 
-That's fine **only if your actual `evaluate.py` does exactly that**. Similarly, don't put a fixed `>0.85` result in the README unless you've actually run the benchmark and obtained it.
-
-For your GitHub README, the strongest evidence will be an actual section like:
-
-```text
-## Evaluation Results
-
-| Metric | Score |
-|---|---:|
-| Faithfulness | 0.91 |
-| Answer Relevancy | 0.89 |
-| Context Precision | 0.87 |
-| Context Recall | 0.90 |
-| Overall | 0.89 |
-````
 
